@@ -1,6 +1,0 @@
-
-mini-gestionnaire-taches/
-├── todo.py            # Code principal
-├── test_todo.py       # Tests unitaires
-├── README.md          # Documentation
-└── requirements.txt   # Dépendances
